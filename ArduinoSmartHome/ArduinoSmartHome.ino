@@ -19,7 +19,7 @@ digitalWrite(12, LOW);
 digitalWrite(11, HIGH);
 tone(7, 800, 250);
 delay(500);
-  
+
 
   }
 
